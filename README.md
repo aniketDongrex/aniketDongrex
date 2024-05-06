@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React**
 
-⚡ Fun fact ****
+⚡ Fun fact **I am fairly good with sketching**
 
  </div>
 
